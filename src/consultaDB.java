@@ -1,4 +1,4 @@
-
+//Tercer cambio  linea 1
 //pruebas de comentarios cambios para github
 import java.sql.*;
 public class consultaDB{
@@ -27,4 +27,4 @@ public class consultaDB{
         }
     }  
 }
-   
+// Tercer cámbio línea 30   
